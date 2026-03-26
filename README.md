@@ -13,7 +13,9 @@ Pipeline de dados para monitoramento automatizado de propostas de convênios fed
 
 ## Problema
 
-A equipe precisava identificar, dentre centenas de propostas abertas no SICONV, quais das entidades estaduais de MG ainda não haviam avançado para a etapa de Plano de Trabalho — processo feito manualmente, sujeito a erros e consumindo horas de trabalho a cada ciclo.
+As entidades vinculadas à administração direta do Estado de Minas Gerais que desejam submeter propostas e firmar convênios com o governo federal são obrigadas, previamente, a encaminhar a proposta à **DCGCE** para o processo de **pré-qualificação**. Essa etapa é essencial para aumentar as chances de aprovação nos programas federais de captação de recursos voltados à execução de políticas públicas.
+
+No entanto, diversas entidades submetem suas propostas na plataforma TransfereGov sem notificar a DCGCE, pulando a pré-qualificação. A equipe precisava identificar essas ocorrências consultando manualmente o SICONV e cruzando com o controle interno — um processo repetitivo, sujeito a erros e que consumia horas a cada ciclo de monitoramento.
 
 ## Solução
 
