@@ -1,0 +1,9 @@
+pandas #Processamento e manipulação de dados
+openpyxl #importação e exportação de planilhas xlsx
+msal #Biblioteca para autenticação e autorização com o Azure Active Directory
+requests #Faz requesições web
+google-auth #Autentica e autoriza com o ambiente google (gmail)
+google-auth-oauthlib #Implementa o fluxo OAuth 2.0 para autenticar usuários e obter credenciais do Google (login e tokens de acesso).
+google-api-python-client #Cliente oficial do Google para consumir APIs (Drive, Sheets, Gmail etc.)
+python-dotenv #Carrega variáveis de ambiente de um arquivo .env para proteger dados sensíveis (client_id, client_secret, tokens).
+

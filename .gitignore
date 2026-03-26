@@ -1,0 +1,51 @@
+# ── Variáveis de ambiente e segredos ──────────────────────────────────────
+.env
+*.key
+*.pem
+json.json
+*.json.json
+
+# ── Dados sensíveis / arquivos grandes ────────────────────────────────────
+data/
+!data/.gitkeep
+raw/
+!raw/.gitkeep
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ── Ambientes virtuais ────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# ── IDEs e editores ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Sistema operacional ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Build e distribuição ──────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── Logs e saídas temporárias ─────────────────────────────────────────────
+*.log
+logs/
+output/
+*.tmp
+
+.claude
