@@ -5,9 +5,9 @@
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-MSAL-0078D4?logo=microsoftazure)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
-Pipeline de dados para monitoramento automatizado de propostas de convênios federais (SICONV) que ainda não possuem Plano de Trabalho (PQ) aprovado, com foco em entidades do estado de Minas Gerais.
+Pipeline de dados para monitoramento automatizado de propostas de convênios federais (SICONV) que ainda não possuem Pré-Qualificação (PQ) realizada pela Diretoria Central de Gestão de Convênios de Entrada, com foco em entidades do estado de Minas Gerais.
 
-> Desenvolvido no contexto da **DCGCE — Diretoria de Captação e Gestão de Convênios Estaduais**, com o objetivo de substituir um processo manual repetitivo por uma automação confiável e rastreável.
+> Desenvolvido no contexto da **DCGCE — Diretoria Central de Gestão de Convênios Entrada**, com o objetivo de substituir um processo manual repetitivo por uma automação confiável e rastreável.
 
 ---
 
